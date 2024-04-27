@@ -1,5 +1,7 @@
 # Java
 
+[site para aprender Java](https://glysns.gitbook.io/java-basico)
+
 Classe {
 	Método{
 	}
@@ -14,4 +16,8 @@ Nome de variavel mutalvel deve ser utilizado camelCase
 Variavel => Tipo nomeBemDefinido = Atribuição
 Tipos de var => String, int, boolean
 
-Ala atual: anatomia de classe 4
+
+Aula atual: anatomia de classe 6
+
+
+

@@ -1,3 +1,4 @@
+package edu.gustavo.exemplos;
 public class MinhaClasse {
     public static void main(String[] args) {
         System.out.print("Hello word!");
