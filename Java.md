@@ -7,14 +7,15 @@ Classe {
 	}
 }
 
-Variavel que nunca será alterada => final String NOME_VARIAVEL = "Valor";
+Variavel que nunca será alterada => final String NOME_VARIAVEL = "Valor"; ex: 		final double VALOR_DE_PI = 3.14;
+
 
 A Classe deve possuir o mesmo nome do arquivo
 
 Nome de variavel mutalvel deve ser utilizado camelCase
 
 Variavel => Tipo nomeBemDefinido = Atribuição
-Tipos de var => String, int, boolean
+Tipos de var => String, int, boolean | Mais utilizados int e double para números 	
 
 
 

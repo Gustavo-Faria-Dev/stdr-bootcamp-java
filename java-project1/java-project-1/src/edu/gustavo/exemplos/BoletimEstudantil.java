@@ -8,5 +8,10 @@ public class BoletimEstudantil {
 			System.out.println("PROVA MINERVA");
 		else
 			System.out.println("APROVADO");
+
+
+		int a = 5;
+		a = -a;
+		System.err.println(-a);
 	}
 }
