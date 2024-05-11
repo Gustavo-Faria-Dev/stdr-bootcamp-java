@@ -1,6 +1,7 @@
 # Java
 
 [site para aprender Java](https://glysns.gitbook.io/java-basico)
+[Java documentation ](https://docs.oracle.com/javase/tutorial/tutorialLearningPaths.html)
 
 Classe {
 	Método{
