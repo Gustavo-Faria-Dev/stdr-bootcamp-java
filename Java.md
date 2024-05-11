@@ -18,8 +18,7 @@ Variavel => Tipo nomeBemDefinido = Atribuição
 Tipos de var => String, int, boolean | Mais utilizados int e double para números 	
 
 
+Operadores ternários: <Expressão Condicional>`` ?``<Caso condição seja true>``:``<Caso condição seja false>
 
-Aula atual: anatomia de classe 6
-
-
+Para comarar objetos o ideal é utilizar o comparador *.equals*
 
