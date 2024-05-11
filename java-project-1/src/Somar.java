@@ -1,11 +1,10 @@
-package edu.gustavo.exemplos;
 
-public class Metodos {
+
+public class Somar {
 
     public void somar(int c, int d) {
         System.out.println(c + d);
     }
-
-
+    
 
 }

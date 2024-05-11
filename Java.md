@@ -23,3 +23,6 @@ Operadores ternários: <Expressão Condicional>`` ?``<Caso condição seja true>
 
 Para comarar objetos o ideal é utilizar o comparador *.equals*
 
+Documentação GERAR AUTOMÁTICA EX: javadoc -encoding UTF-8 -docencoding ISO-8859-1  -d ../docs  src/*.java
+
+Executar Java fora da IDE (vscode) 
