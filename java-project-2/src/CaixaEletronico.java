@@ -1,7 +1,7 @@
 public class CaixaEletronico {
     public static void main(String[] args) {
         double saldo = 100;
-        double valorSolicitado = 12;
+        double valorSolicitado = 1213;
 
         if (valorSolicitado < saldo) {
             saldo = saldo - valorSolicitado;
